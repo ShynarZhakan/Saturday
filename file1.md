@@ -6,3 +6,6 @@ the neew code there
 new code for maain
 
 check in main
+
+ new changes after github registration
+ 
